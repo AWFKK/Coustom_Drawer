@@ -1,16 +1,21 @@
-# coustom_drawer
+# Coustom Animated Drawer
 
-A new Flutter application.
+Coustomized animated drawer 
 
-## Getting Started
+## ScreenShorts
 
-This project is a starting point for a Flutter application.
+<p>
+  <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/26364962/141976950-7f937437-9f64-493f-ba20-4bc97c250eea.png">
+    <img src="https://user-images.githubusercontent.com/26364962/141976950-7f937437-9f64-493f-ba20-4bc97c250eea.png" height="600" width="320">
+  </a>
+  
+  <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/26364962/141976953-f2332f3f-5f51-4844-bcb4-35c34b958307.png">
+    <img src="https://user-images.githubusercontent.com/26364962/141976953-f2332f3f-5f51-4844-bcb4-35c34b958307.png" height="600" width="320">
+  </a>
+  
+  <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/26364962/141976970-1aeb421a-137f-46e3-b822-b09fe013e6a2.png">
+    <img src="https://user-images.githubusercontent.com/26364962/141976970-1aeb421a-137f-46e3-b822-b09fe013e6a2.png" height="600" width="320">
+  </a>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
